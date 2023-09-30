@@ -1,4 +1,4 @@
-# my profiles picture web3
+# my profile picture web3
 - 0x616c79737361 (1).jpg
 - 0x616c79737361 (2).jpg
 - 0x616c79737361 (3).jpg
